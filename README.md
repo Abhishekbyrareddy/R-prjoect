@@ -1,1 +1,1 @@
-# R-prjoect
+# R-project
